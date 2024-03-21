@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
-//TODO: trim not work
+//TODO: trim isn't working
 public class GroceryList {
       private ArrayList<String> items;
 

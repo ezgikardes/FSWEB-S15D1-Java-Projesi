@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         GroceryList groceryList = new GroceryList();
 
-        int choice; //instance declaration:
+        int choice; //instance declaration
 
         do{
             System.out.println("Yapılmak istenen operasyonu seçin(0: quit, 1: ekleme, 2: çıkarma)");
